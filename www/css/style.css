@@ -1,1 +1,12 @@
-// Global Styles
+/* Global */
+
+/* Explore */
+.ft-block {
+	margin: 1.5vw;
+	margin-right: -1vw;
+	float: left;
+	padding: 10vw;
+	border: 2px solid;
+	border-radius: 2px;
+	background: tan;
+}
